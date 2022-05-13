@@ -1,6 +1,6 @@
 # Easy-Shopping-Figma
 
-<img src="./easyshopping.img" alt="image home site">
+<img src="./easy-shopping.img" alt="image home site">
 
 > O objetivo desse projeto foi mostrar o recurso de responsividade através do " @media screen " .
 
@@ -20,7 +20,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rodolfomori/">
-        <img src="perfil-rodolfo.jpeg.img" width="100px;" alt="foto de Rodolfo"/><br>
+        <img src="rodolfo.img" width="100px;" alt="foto de Rodolfo"/><br>
         <sub>
           <b>Rodolfo Mori</b>
         </sub>
